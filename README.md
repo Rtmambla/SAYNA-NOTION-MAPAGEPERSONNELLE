@@ -4,7 +4,7 @@
 
 🌍 Voici le lien pour accéder à ma page NOTION : 
 
-🪢 [https://www.notion.so/Ma-premi-re-Page-Web-Notion-17afa85a62b28047a464e793f8ce7a00](https://seed-amount-ca2.notion.site/Premi-re-Page-Notion-17afa85a62b28047a464e793f8ce7a00)
+🪢 "[https://www.notion.so/Ma-premi-re-Page-Web-Notion-17afa85a62b28047a464e793f8ce7a00](https://seed-amount-ca2.notion.site/Premi-re-Page-Notion-17afa85a62b28047a464e793f8ce7a00)"
 
 🔎 Tous les éléments qui m'ont permis de réaliser ma page : 
     - Vidéo tuto sur SAYNA (m’a beaucoup aidé)
