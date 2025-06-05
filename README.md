@@ -12,5 +12,6 @@
     - 🗺️ CANVA : plan du site et Logo
     - *️⃣ Tally 
     - ✉️ Google drive
+    - ▶ Youtube
     - 😉 Émoticon : https://fr.piliapp.com/facebook-symbols/
     - 🆒 Ce projet peut être personnalisé à volonté. L’objectif est de garder la logique de créer des databases connectées entre elles, avec des indicateurs automatisés par l’intermédiaire de formules et autres propriétés. De plus, l’intégration d’autres outils tels que Tally et Google Forms permettent d’automatiser ou d’augmenter l’utilisation d’informations.
