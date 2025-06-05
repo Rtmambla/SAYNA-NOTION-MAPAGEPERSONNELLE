@@ -8,9 +8,9 @@
 
 🔎 Tous les éléments qui m'ont permis de réaliser ma page : 
 
-    - Vidéo tuto sur SAYNA (m’a beaucoup aidé)
-    - CANVA : plan du site et Logo
-    - Tally 
-    - Google drive
-    - Émoticon : https://fr.piliapp.com/facebook-symbols/
-    -Ce projet peut être personnalisé à volonté. L’objectif est de garder la logique de créer des databases connectées entre elles, avec des indicateurs automatisés par l’intermédiaire de formules et autres         propriétés. De plus, l’intégration d’autres outils tels que Tally et Google Forms permettent d’automatiser ou d’augmenter l’utilisation d’informations.
+    - 🌐 Vidéo tuto sur SAYNA (m’a beaucoup aidé)
+    - 🗺️ CANVA : plan du site et Logo
+    - *️⃣ Tally 
+    - ✉️ Google drive
+    - 😉 Émoticon : https://fr.piliapp.com/facebook-symbols/
+    - 🆒 Ce projet peut être personnalisé à volonté. L’objectif est de garder la logique de créer des databases connectées entre elles, avec des indicateurs automatisés par l’intermédiaire de formules et autres propriétés. De plus, l’intégration d’autres outils tels que Tally et Google Forms permettent d’automatiser ou d’augmenter l’utilisation d’informations.
